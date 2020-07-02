@@ -11,7 +11,7 @@ pkg install sl
 sl
 
 echo
-echo -e "\e[1n Subscribe to Termux Tricks & Tut"
+echo -e "\e[lokeshvar"
 echo
 echo -e "\e[1m\e[32m Enter :\e[33m php ap.php"
 echo
